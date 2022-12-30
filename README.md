@@ -1,1 +1,1 @@
-These are some of my password (And Passcode) generators that are made in Python. 
+These are some of my password (And Passcode) generators that I made in Python. 
